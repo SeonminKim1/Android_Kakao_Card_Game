@@ -1,5 +1,7 @@
 # Kakao_Card_Game_Android
-## 카카오 캐릭터를 이용한 카드 짝맞추기 게임 (Andoird / Firebase / Kakao api / Google api) by 김선민, 장성준
+## 카카오 캐릭터를 이용한 카드 짝맞추기 게임 
+#### - Andoird / Firebase / Kakao api / Google api 
+#### - 2018년도 1학기 안드로이드 프로젝트 (김선민, 장성준)
 
 ### 1. 게임기능   
 - 안드로이드 환경의 파이어베이스를 연동한 카드 짝맞추기 게임
