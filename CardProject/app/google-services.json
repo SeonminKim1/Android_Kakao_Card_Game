@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "874149200273",
+    "firebase_url": "https://cardproject-60f5d.firebaseio.com",
+    "project_id": "cardproject-60f5d",
+    "storage_bucket": "cardproject-60f5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874149200273:android:d9f31556da30de2f",
+        "android_client_info": {
+          "package_name": "kr.ac.hansung.example.cardproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874149200273-temr3jnoqgdcrv4cagf66kc6t6iof4rt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.ac.hansung.example.cardproject",
+            "certificate_hash": "efec96d6e03417ddde8b7d841aaf382ee0c51ca1"
+          }
+        },
+        {
+          "client_id": "874149200273-62uoq2a6us2pt42kb101p5maf5knjqbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9-rxchDVdXS5PbzLX_2Tan3VjHnShbHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874149200273-62uoq2a6us2pt42kb101p5maf5knjqbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
