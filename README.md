@@ -14,27 +14,27 @@
 - (3) 날짜 체크를 통한 출석체크 기능
 
 ### 3. 게임화면
-- (1) 게임소개
+- ### (1) 게임소개
 ![소개화면](./readme_image/소개화면.PNG)
 
-- (2) 카카오톡 로그인
+- ### (2) 카카오톡 로그인
 ![카카오톡로그인화면](./readme_image/카카오톡로그인화면.png)
 
-- (3) 메인 화면
+- ### (3) 메인 화면
 ![첫화면_점수화면](./readme_image/첫화면_점수화면.png)
 
-- (4) 출석체크 기능 화면
+- ### (4) 출석체크 기능 화면
 ![출석체크](./readme_image/출석체크.png)
 
-- (5) 보물찾기 기능 화면
+- ### (5) 보물찾기 기능 화면
 ![보물찾기](./readme_image/보물찾기.png)
 
-- (6) 카드게임 화면
+- ### (6) 카드게임 화면
 ![카드게임1](./readme_image/카드게임1.png)
 
-- (7) 카드게임 종료 화면
+- ### (7) 카드게임 종료 화면
 ![카드게임종료](./readme_image/카드게임종료.png)
 
 ### 4. 시연 동영상
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=J2PPYiU459A" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+- https://www.youtube.com/watch?v=J2PPYiU459A"
 
